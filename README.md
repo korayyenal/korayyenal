@@ -3,7 +3,7 @@
 I'm Koray, a MSc data science student in Montréal, Canada. I'm working mostly in the Python ecosystem.
 
 - 👯 I’m looking to collaborate on machine learning projects related to music genres, cinema, or games. 
-- ⚡ Fun fact: My name in French means "coral reef" and in Turkish "red moon".
+- ⚡ Fun fact: My name means "coral reef" in French and "red moon" in Turkish.
 - 📫 Feel free to connect with me on [Twitter](https://twitter.com/korayyenal) or via my [email](mailto:koray.yenal@hec.ca).
 
 ![Python](https://img.shields.io/badge/-Python-FFFFFF?logo=python)
