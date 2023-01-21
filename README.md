@@ -2,9 +2,9 @@
 
 I'm Koray, a MSc data science student in Montréal, Canada. I'm working mostly in the Python ecosystem.
 
-- 👯 I’m looking to collaborate on machine learning projects related to recommendation systems and graph neural networks with applications in music, cinema, or video games. 
+- 👯 I’m looking to collaborate on ML/DL projects related to recommendation systems and graph neural networks with applications in music, cinema, or video games. 
 - ⚡ Fun fact: My name means "coral reef" in French and "red moon" in Turkish.
-- 💬 Ask me about _traveling_. I've been to more than 25 countries in four continents, I lived in four cities (Istanbul, Houston, Lisbon, and Montréal). I'd love to share my experiences on solo-traveling and life as an first-generation immigrant.
+- 💬 Ask me anything about _traveling_. I've been to more than 25 countries in four continents and I lived in four cities (Istanbul, Houston, Lisbon, and Montréal). 
 - 📫 Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/koray-yenal/) or via my [email](mailto:koray.yenal@hec.ca).
 
 ![Python](https://img.shields.io/badge/-Python-FFFFFF?logo=python)
