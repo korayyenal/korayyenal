@@ -1,11 +1,29 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Koray</h1>
 
-I'm Koray, a MSc data science student in Montréal, Canada. I'm working mostly in the Python ecosystem.
+I'm a 26 years old data science masters student based in Montréal, QC. In the past, I worked as a analytical consultant intern at Google, working in various problems in industries ranging from gaming, startups, finance and CPG. Currently you'll find me doing machine learning projects, or doing movie reviews on letterboxd. 
 
 - 👯 I’m looking to collaborate on machine learning projects with applications in music, cinema, or video games. 
 - ⚡ Fun fact: My name means "coral reef" in French and "red moon" in Turkish.
 - 💬 Ask me anything about _traveling_. I've been to 25 countries and I lived in four cities (Istanbul, Houston, Lisbon, and Montréal). 
 - 📫 Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/koray-yenal/) or via my [email](mailto:koray.yenal@hec.ca).
+
+## 🔗 Let's Connect!
+<a href="https://twitter.com/koray_yenal" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/koray-yenal/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+## 🔨 Stack 
+
+🐍 Python Stack
+- Machine Learning: Pytorch, TensorFlow, Scikit-learn, fast.ai
+- Data Science: Pandas, Numpy
+- Demo: Matplotlib, Seaborn
+- Misc Tools: Streamlit
+
+R Stack
+- Data Science: ggplot2, dplyr, tidyverse, tidytext, caret, MASS
+
+Development
+- GCP, Spark, Docker
 
 ![Python](https://img.shields.io/badge/-Python-FFFFFF?logo=python)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-FFFFFF?logo=jupyter&logoColor=F37626)
@@ -14,15 +32,3 @@ I'm Koray, a MSc data science student in Montréal, Canada. I'm working mostly i
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FFFFFF?logo=streamlit&logoColor=#F74B4C)
 ![Git](https://img.shields.io/badge/-Git-FFFFFF?logo=git&logoColor=#F05032)
 ![MacOS](https://img.shields.io/badge/-MacOS-FFFFFF?logo=apple&logoColor=grey)
-
-<!--
-**korayyenal/korayyenal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
--->
