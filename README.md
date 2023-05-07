@@ -8,13 +8,12 @@ I'm a 26 years old Data Science master's student based in Montréal, QC. In the 
 - 📫 Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/koray-yenal/) or via my [email](mailto:koray.yenal@hec.ca).
 
 ## 🔗 Let's Connect!
-<a href="https://twitter.com/koray_yenal" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/koray-yenal/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## 🔨 Stack 
 
 🐍 Python Stack
-- Machine Learning: Pytorch, TensorFlow, Scikit-learn, fast.ai
+- Machine Learning: Pytorch, TensorFlow, Scikit-learn
 - Data Science: Pandas, Numpy
 - Demo: Matplotlib, Seaborn
 - Misc Tools: Streamlit
@@ -23,7 +22,7 @@ R Stack
 - Data Science: ggplot2, dplyr, tidyverse, tidytext, caret, MASS
 
 Development
-- GCP, Spark, Docker
+- GCP, AWS, Spark, Databricks, Docker
 
 ![Python](https://img.shields.io/badge/-Python-FFFFFF?logo=python)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-FFFFFF?logo=jupyter&logoColor=F37626)
