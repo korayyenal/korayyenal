@@ -22,7 +22,7 @@ R Stack
 - Data Science: ggplot2, dplyr, tidyverse, tidytext, caret, MASS
 
 Development
-- GCP, AWS, Spark, Databricks, Docker
+- Git, Bash, Docker, GCP, AWS, Spark, Databricks
 
 ![Python](https://img.shields.io/badge/-Python-FFFFFF?logo=python)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-FFFFFF?logo=jupyter&logoColor=F37626)
