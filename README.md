@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Koray</h1>
 
-I'm a 28-year-old Data Scientist based in Montréal, QC. In the past, I worked as an analytical consultant at Google. Currently, you'll find me doing machine learning and analytics projects, or writing movie reviews on letterboxd. 
+I'm a 28 year old data scientist based in Montréal, Canada. Previously, I worked as an analytical consultant at Google. Currently, you'll find me doing machine learning and analytics projects, or writing movie reviews on letterboxd. 
 
 - 👯 I’m looking to collaborate on ML projects with applications in banking or insurance. 
 - ⚡ Fun fact: My name means "coral reef" in French and "red moon" in Turkish.
