@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Koray</h1>
 
-I'm a 27-year-old Data Science master's student based in Montréal, QC. In the past, I worked as an analytical consultant intern at Google, working with gaming and telecom industries. Currently, you'll find me doing ML projects, or writing movie reviews on letterboxd. 
+I'm a 28-year-old Data Scientist based in Montréal, QC. In the past, I worked as an analytical consultant at Google. Currently, you'll find me doing machine learning and analytics projects, or writing movie reviews on letterboxd. 
 
 - 👯 I’m looking to collaborate on ML projects with applications in banking or insurance. 
 - ⚡ Fun fact: My name means "coral reef" in French and "red moon" in Turkish.
-- 📫 Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/koray-yenal/) or via my [email](mailto:koray.yenal@hec.ca).
+- 📫 Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/koray-yenal/) or via my [email](mailto:korayyenal@hec.ca).
 
 ## 🔗 Let's Connect!
 <a href="https://www.linkedin.com/in/koray-yenal/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
